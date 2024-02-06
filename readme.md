@@ -1,4 +1,4 @@
-# Node.js Server for Angular Storefront - Crash Course
+# Node.js Server for ZoneDrip
 
 This server provides the backend functionality for the Angular frontend, allowing users to perform CRUD (Create, Read, Update, Delete) operations on products. The server utilizes Express and interacts with a JSON file to manage product data.
 
@@ -48,4 +48,4 @@ Before you begin, ensure you have the following installed:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. This server is based on [this repository](https://github.com/thecodedeck/angular-cc-1-server)
