@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "https://static.wikia.nocookie.net/stalker/images/8/81/Bread_render.png",
+      "name": "Bread",
+      "price": "20",
+      "rating": 1
+    },
+    {
+      "id": 2,
+      "name": "Diet sausage",
+      "image": "https://static.wikia.nocookie.net/stalker/images/8/81/Diet_sausage_render.png",
+      "price": "50",
+      "rating": 3
+    },
+    {
+        "id": 3,
+        "name": "Tourist Delight",
+        "image": "https://static.wikia.nocookie.net/stalker/images/b/bb/Tourist_delight_render.png",
+        "price": "100",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "TOS 34",
+        "image": "https://static.wikia.nocookie.net/stalker/images/3/3a/Hunting_shotgun_icon.png",
+        "price": "500",
+        "rating": 3
+      },
+      {
+        "id": 5,
+        "name": "Guitar",
+        "image": "https://static.wikia.nocookie.net/stalker/images/f/f0/Cop_icon_guitar.png",
+        "price": "30",
+        "rating": 5
+      },
+      {
+        "id": 6,
+        "name": "Merc Suit",
+        "image": "https://static.wikia.nocookie.net/stalker/images/6/6d/Merc_Suit_SoC.png",
+        "price": "6000",
+        "rating": 5
+      },
+      {
+        "id": 7,
+        "name": "SSP-99 Ecologist",
+        "image": "https://static.wikia.nocookie.net/stalker/images/b/b9/SSP-99_Ecologist_SoC.png",
+        "price": "15000",
+        "rating": 5
+      },
+      {
+        "id": 8,
+        "name": "PMm",
+        "image": "https://static.wikia.nocookie.net/stalker/images/c/c9/PMm_render_SoC.png",
+        "price": "280",
+        "rating": 2
+      },
+      {
+        "id": 9,
+        "name": "Guardian of Freedom Suit",
+        "image": "https://static.wikia.nocookie.net/stalker/images/5/53/Guardian_of_Freedom_icon_SoC.png",
+        "price": "12500",
+        "rating": 4
+      },
+      {
+        "id": 10,
+        "name": "PSZ-9d Duty armor",
+        "image": "https://static.wikia.nocookie.net/stalker/images/a/a8/PSZ-9d_icon_SoC.png",
+        "price": "14000",
+        "rating": 4
+      },
+      {
+        "id": 11,
+        "name": "AKM-74/2",
+        "image": "https://static.wikia.nocookie.net/stalker/images/6/67/AKM742_render.png",
+        "price": "2000",
+        "rating": 3
+      }
+  ]
+}
